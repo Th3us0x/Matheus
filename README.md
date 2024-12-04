@@ -55,4 +55,6 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 🎯 **Objetivo:** Compartilhar conhecimentos e ferramentas úteis para a comunidade de segurança cibernética enquanto aprimoro minhas próprias habilidades.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxsec&show_icons=true&theme=dark)](https://github.com/Mxsec)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxsec&layout=compact&theme=dark)
+
 
