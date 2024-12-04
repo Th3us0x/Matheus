@@ -66,7 +66,7 @@ Sou **Matheus Hércules**, um Pentester e analista de segurança ofensiva com ma
 
 🎯 **Objetivo:** Compartilhar conhecimentos e ferramentas úteis para a comunidade de segurança cibernética enquanto aprimoro minhas próprias habilidades.
 
-![Minha Logo](https://github.com/Mxsec/Mxsec/blob/main/IAM.png)
+![Minha Logo](https://github.com/Mxsec/Mxsec/blob/main/IAM.jpg)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxsec&show_icons=true&theme=dark)](https://github.com/Mxsec)
 
 
