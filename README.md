@@ -49,7 +49,7 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 
 
 ## 🌐 Idiomas
-- **Inglês:** Intermediário.
+- **Inglês:** Básico.
 
 
 ## 🚀 O que você encontrará no meu GitHub
