@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Bem-vindo ao meu GitHub!
 
 ## Sobre mim
@@ -16,7 +15,18 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 
 
 ## 💼 Experiência Profissional
+## O INICÍO 
 
+## **ROVERI | Estágio em Desenvolvimento de Sistemas**
+*2020 - 2021*
+- Automações de diversos serviços de rotina.
+- Linguagem de programação Python.
+  
+### **T-Systems do Brasil Ltda | Blue Team | Cyber Security Analyst**  
+*Janeiro 2021 - Novembro 2021*
+- Avaliações de vulnerabilidades e comunicação de resultados para equipes técnicas.
+- Relatórios detalhados e planos de remediação eficazes.
+- 
 ### **T-Systems do Brasil Ltda | Red Team | Pentester**  
 *Dezembro 2021 - Presente*
 - Simulações de ataques realistas, adaptadas aos negócios dos clientes.
@@ -24,13 +34,8 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 - Desenvolvimento e implementação de scripts personalizados para automação de Red Team, utilizando Bash, PowerShell e Python.
 - Testes de aplicações web, incluindo APIs RESTful, GraphQL e painéis administrativos.
 
-### **T-Systems do Brasil Ltda | Blue Team | Cyber Security Analyst**  
-*Janeiro 2021 - Novembro 2021*
-- Avaliações de vulnerabilidades e comunicação de resultados para equipes técnicas.
-- Relatórios detalhados e planos de remediação eficazes.
 
-
-## ✨ Expertise Técnica
+## ✨ Experiência Técnica
 - **Web Application Security:** Testes manuais e automatizados, OWASP Top 10.
 - **Network Security:** Protocolos de rede e defesa contra ataques.
 - **Cloud Environments:** Segurança em plataformas de nuvem.
@@ -40,6 +45,7 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 ## 📈 Linguagens e Ferramentas
 - **Linguagens:** Python, Bash, PowerShell.
 - **Ferramentas:** Nmap, Burp Suite, SQLMap, Shodan, Censys, Nuclei, theHarvester, Kali Linux.
+- **Scripts personalizados de acordo com as necessidades de cada teste ou operação.
 
 
 ## 🌐 Idiomas
@@ -55,6 +61,6 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 🎯 **Objetivo:** Compartilhar conhecimentos e ferramentas úteis para a comunidade de segurança cibernética enquanto aprimoro minhas próprias habilidades.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxsec&show_icons=true&theme=dark)](https://github.com/Mxsec)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxsec&layout=compact&theme=dark)
+![Minha Logo](https://github.com/Mxsec/Mxsec/blob/main/MXsec.png)
 
 
