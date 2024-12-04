@@ -26,14 +26,14 @@ Sou **Matheus Hércules**, um Pentester e analista de segurança ofensiva com ma
 *Janeiro 2021 - Novembro 2021*
 - Avaliações de vulnerabilidades e comunicação de resultados para equipes técnicas.
 - Relatórios detalhados e planos de remediação eficazes.
-- 
+- Reuniões com clientes para discutir planos de ação e apresentação de melhorias no ambiente.
+  
 ### **T-Systems do Brasil Ltda | Red Team | Pentester**  
 *Dezembro 2021 - Presente*
 - Simulações de ataques realistas, adaptadas aos negócios dos clientes.
 - Manutenção e planejamento de estratégias de segurança ofensiva.
 - Desenvolvimento e implementação de scripts personalizados para automação de Red Team, utilizando Bash, PowerShell e Python.
-- Testes de aplicações web, incluindo APIs RESTful, GraphQL e painéis administrativos.
-
+- Testes de aplicações web, testes em APIs
 
 ## ✨ Experiência Técnica
 - **Web Application Security:** Testes manuais e automatizados, OWASP Top 10.
