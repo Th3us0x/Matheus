@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao meu GitHub!
 
 ## Sobre mim
-Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mais de 3 anos de experiência em projetos de segurança cibernética. Minha especialidade é **Red Team**, englobando operações de segurança ofensiva, testes de aplicação web, segurança de infraestrutura interna e ambientes em nuvem.
+Sou **Matheus Hércules**, um Pentester e analista de segurança ofensiva com mais de 3 anos de experiência em projetos de segurança cibernética. Minha especialidade é **Red Team**, englobando operações de segurança ofensiva, testes de aplicação web, segurança de infraestrutura interna e ambientes em nuvem.
 
 📌 **Competências:**
 - Identificação e exploração de vulnerabilidades.
@@ -45,7 +45,7 @@ Sou **Mateus Hércules**, um Pentester e analista de segurança ofensiva com mai
 ## 📈 Linguagens e Ferramentas
 - **Linguagens:** Python, Bash, PowerShell.
 - **Ferramentas:** Nmap, Burp Suite, SQLMap, Shodan, Censys, Nuclei, theHarvester, Kali Linux.
-- **Scripts personalizados de acordo com as necessidades de cada teste ou operação.
+- Scripts personalizados de acordo com as necessidades de cada teste ou operação.
 
 
 ## 🌐 Idiomas
