@@ -3,7 +3,6 @@
 <h1 align="center">
   <code>/root/usr/Mxsec</code>
 </h1>
----
 
 <p align="center">
   <img src="https://github.com/Mxsec/Mxsec/blob/main/MXsec.png" alt="Red Team Logo" width="200px">
