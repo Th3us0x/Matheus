@@ -1,7 +1,7 @@
 <h3 align="center">WHOAMI</h3>
 
 <h1 align="center">
-  <code>/root/usr/Mxsec</code>
+  <code>/root/usr/HexThorn</code>
 </h1>
 
 <p align="center">
