@@ -70,6 +70,6 @@ Unicesumar | 2020 - 2023
 
 
 ![Minha Logo](https://github.com/Mxsec/Mxsec/blob/main/IAM.jpg)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mxsec&show_icons=true&theme=dark)](https://github.com/Mxsec)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3us0x&show_icons=true&theme=dark)](https://github.com/Th3us0x)
 
 
